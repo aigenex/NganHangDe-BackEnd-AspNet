@@ -1,0 +1,18 @@
+﻿# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore specific build outputs
+*.dll
+*.pdb
+*.cache
+*.json
+*.editorconfig
+*.deps.json
+*.runtimeconfig.json
+*.sourcelink.json
+*.AssemblyInfo.cs
+*.AssemblyInfoInputs.cache
+*.CoreCompileInputs.cache
+*.CopyComplete
+*.FileListAbsolute.txt

@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\dotnet\\NganHangDe\\NganHangDe-BackEnd-AspNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399B683B-9828-4838-8C87-15667F47CB90}|NganHangDe-Backend\\NganHangDe-Backend.csproj|d:\\project\\dotnet\\nganhangde\\nganhangde-backend-aspnet\\nganhangde-backend\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399B683B-9828-4838-8C87-15667F47CB90}|NganHangDe-Backend\\NganHangDe-Backend.csproj|solutionrelative:nganhangde-backend\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399B683B-9828-4838-8C87-15667F47CB90}|NganHangDe-Backend\\NganHangDe-Backend.csproj|d:\\project\\dotnet\\nganhangde\\nganhangde-backend-aspnet\\nganhangde-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399B683B-9828-4838-8C87-15667F47CB90}|NganHangDe-Backend\\NganHangDe-Backend.csproj|solutionrelative:nganhangde-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionController.cs",
+              "DocumentMoniker": "D:\\Project\\dotnet\\NganHangDe\\NganHangDe-BackEnd-AspNet\\NganHangDe-Backend\\Controllers\\QuestionController.cs",
+              "RelativeDocumentMoniker": "NganHangDe-Backend\\Controllers\\QuestionController.cs",
+              "ToolTip": "D:\\Project\\dotnet\\NganHangDe\\NganHangDe-BackEnd-AspNet\\NganHangDe-Backend\\Controllers\\QuestionController.cs",
+              "RelativeToolTip": "NganHangDe-Backend\\Controllers\\QuestionController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwIgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T02:05:23.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Project\\dotnet\\NganHangDe\\NganHangDe-BackEnd-AspNet\\NganHangDe-Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "NganHangDe-Backend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Project\\dotnet\\NganHangDe\\NganHangDe-BackEnd-AspNet\\NganHangDe-Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "NganHangDe-Backend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAQwDIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:28:03.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
